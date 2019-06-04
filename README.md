@@ -2,9 +2,9 @@
 An Android application that helps to solve Sudoku with a camera.
 
 # Note
-Platform: Android
-OpenCv: 3.5
-NDK: 17
+* Platform: Android 
+* OpenCv: 3.5
+* NDK: 17
 
 The application is simple and has a search function for a sudoku puzzle using a camera. It also helps to find a solution.
 The app will support Hebrew puzzles.
@@ -18,6 +18,5 @@ The app will support Hebrew puzzles.
 # Developer Contact
 Appvilo Development Team
 
-info@appvilo.com
-
-www.appvilo.com
+* info@appvilo.com
+* www.appvilo.com

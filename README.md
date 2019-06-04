@@ -19,4 +19,5 @@ The app will support Hebrew puzzles.
 Appvilo Development Team
 
 info@appvilo.com
+
 www.appvilo.com

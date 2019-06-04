@@ -12,13 +12,16 @@ The app will support Hebrew puzzles.
 Change link to your OpenCV Folder in CMake file
 set(pathOPENCV C:/Users/Downloads/opencv-3.4.5-android-sdk/OpenCV-android-sdk/sdk)
 
-# Main Screen
+## Main Screen
+![Image alt](https://github.com/appvilo/SudokuCameraSolver/blob/master/picture/main.png)
+## Camera Screen
+![Image alt](https://github.com/appvilo/SudokuCameraSolver/blob/master/picture/camera.png)
+## Grid Take Screen
+![Image alt](https://github.com/appvilo/SudokuCameraSolver/blob/master/picture/grid_take.png)
+## Solver Screen
+![Image alt](https://github.com/appvilo/SudokuCameraSolver/blob/master/picture/solver.png)
 
-# Camera Screen
-
-# Solver Screen
-
-# Developer Contact
+## Developer Contact
 Appvilo Development Team
 
 * info@appvilo.com

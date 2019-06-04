@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="nativeFileNameString">100.bmp</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_image">Image Test</string>
+    <string name="btn_barcode">Barcode</string>
+    <string name="view_result">View Result</string>
+    <string name="image_scan">IMAGE</string>
+</resources>

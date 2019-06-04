@@ -9,6 +9,9 @@ An Android application that helps to solve Sudoku with a camera.
 The application is simple and has a search function for a sudoku puzzle using a camera. It also helps to find a solution.
 The app will support Hebrew puzzles.
 
+Change link to your OpenCV Folder in CMake file
+set(pathOPENCV C:/Users/Downloads/opencv-3.4.5-android-sdk/OpenCV-android-sdk/sdk)
+
 # Main Screen
 
 # Camera Screen

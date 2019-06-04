@@ -1,4 +1,4 @@
-# SudokuCameraSolver
+# Sudoku Camera Solver Android
 An Android application that helps to solve Sudoku with a camera.
 
 # Note

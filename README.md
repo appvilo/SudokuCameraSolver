@@ -22,7 +22,7 @@ set(pathOPENCV C:/Users/Downloads/opencv-3.4.5-android-sdk/OpenCV-android-sdk/sd
 ![Image alt](https://github.com/appvilo/SudokuCameraSolver/blob/master/picture/solver.png)
 
 ## Developer Contact
-Appvilo Development Team
+Yevtushenko Vladyslav
 
-* info@appvilo.com
-* www.appvilo.com
+* yevtushenko520@gmail.com
+* Skype: vladisheeee
